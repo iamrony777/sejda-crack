@@ -15,7 +15,7 @@ class SejdaCrack:
         self.emoji = None
         self.asar = None
         self.prefs = None
-        self.versions = ["7.7.0", "7.7.2", "7.7.4"]
+        self.versions = ["7.7.0", "7.7.2", "7.7.4", "7.8.0"]
         self.cmd = None
         self.main()
 
